@@ -1,7 +1,7 @@
 Note: This is a fork from https://github.com/fiatjaf/bridgeaddr. I want to try to spin it up on my own server. Small portion of the information on this readme file has been edited to reflect my implementation. You may use the service once it up and running, but I can't guarantee it always up and running. Use it at your own risk.
 
 
-#bridgeaddr 
+# bridgeaddr 
 bridge server for lightning addresses
 
 This is a server that allows you to receive payments at `yourname@yourdomain.com` noncustodially (but not fully trustlessly[^trustless]).
